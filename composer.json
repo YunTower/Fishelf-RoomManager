@@ -1,0 +1,13 @@
+{
+  "name": "fishelf/room",
+  "type": "library",
+  "license": "MIT",
+  "description": "鲨播房间管理类",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Fishelf\\Room\\": "src"
+    }
+  }
+}
